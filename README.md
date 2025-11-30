@@ -1,6 +1,6 @@
 
 <h1 align="center" style="color:#ff8ac6; font-weight:700;">
-  🌸 Hey, I'm <span style="color:#ff4fa3;">Virti</span> 🌸
+  Hey, I'm <span style="color:#ff4fa3;">Virti</span>🎀
 </h1>
 
 <p align="center">
