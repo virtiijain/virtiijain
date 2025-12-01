@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <em>Full Stack Dev • React & Next.js • Exploring AI</em>
+  <em>Full Stack Dev • MERN Stack • Exploring AI</em>
 </p>
 
 
