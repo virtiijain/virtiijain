@@ -69,8 +69,6 @@ I am a full-stack developer focused on building clean, scalable, and high-perfor
   </a>
 </p>
 
----
-
 <p align="center" style="color:#ff4fa3; font-weight:600;">
   🎀 Thanks for stopping by — keep building, keep glowing 🎀
 </p>
