@@ -47,7 +47,6 @@ I am a full-stack developer focused on building clean, scalable, and high-perfor
 ## Currently Working On
 - Leveling up backend with Python + FastAPI  
 - Learning AI fundamentals (Python, NumPy, Pandas)  
-- Improving deployment workflows
 
 ## Connect With Me
 <p>
