@@ -14,7 +14,6 @@ I am a full-stack developer focused on building clean, scalable, and high-perfor
 
 ## Tech Stack
 
-### **Core Skills**
 <p>
   <img src="https://img.shields.io/badge/React.js-ff80c8?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-ff4fa3?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -26,8 +25,6 @@ I am a full-stack developer focused on building clean, scalable, and high-perfor
   <img src="https://img.shields.io/badge/Framer Motion-ff4fa3?style=for-the-badge&logo=framer&logoColor=white" />
   <img src="https://img.shields.io/badge/GSAP-ff5faf?style=for-the-badge&logo=greensock&logoColor=white" />
 </p>
-
-### **Backend & Databases**
 <p>
   <img src="https://img.shields.io/badge/Node.js-ff66b3?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-ff4fa3?style=for-the-badge&logo=express&logoColor=white" />
@@ -36,8 +33,6 @@ I am a full-stack developer focused on building clean, scalable, and high-perfor
   <img src="https://img.shields.io/badge/FastAPI-ff5faf?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-ff4fa3?style=for-the-badge&logo=firebase&logoColor=white" />
 </p>
-
-### **Dev Tools & Platforms**
 <p>
   <img src="https://img.shields.io/badge/Git/GitHub-ff80c8?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-ff4fa3?style=for-the-badge&logo=docker&logoColor=white" />
