@@ -49,18 +49,10 @@ I am a full-stack developer focused on building clean, scalable, and high-perfor
   <img src="https://img.shields.io/badge/Figma-fd6fbb?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-
 ## 🌸 Currently Working On
 - Leveling up backend with Python + FastAPI  
 - Learning AI fundamentals (Python, NumPy, Pandas)  
 - Improving deployment workflows
-
-## 💖 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=rose_pine&ring=ff4fa3&fire=ff73bd&currStreakLabel=ff4fa3" />
-</p>
-
 
 ## 🌷 Connect With Me
 <p>
