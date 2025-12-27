@@ -1,4 +1,3 @@
-
 <h1 align="center" style="color:#ff8ac6; font-weight:700;">
   Hey, I'm <span style="color:#ff4fa3;">Virti</span> 🎀
 </h1>
@@ -7,6 +6,9 @@
   <em>Full Stack Dev • MERN Stack • Exploring AI</em>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/GSoC%202026%20Aspirant-Open%20Source%20Focused-ff4fa3?style=for-the-badge&logo=google&logoColor=white" />
+</p>
 
 ## About Me
 I am a full-stack developer focused on building clean, scalable, and high-performance web applications. My work blends technical precision with purposeful coding, crafting interfaces that are consistent, efficient, and reliable. Proficient in the MERN stack and Next.js, while also expanding my backend capabilities through Python and FastAPI. Alongside this, I am currently exploring AI fundamentals, including Python, NumPy, and Pandas, to broaden my technical foundation.
