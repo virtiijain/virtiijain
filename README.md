@@ -44,7 +44,12 @@ I am a full-stack developer focused on building clean, scalable, and high-perfor
 
 ## Currently Working On
 - Leveling up backend with Python + FastAPI  
-- Learning AI fundamentals (Python, NumPy, Pandas)  
+- Learning AI fundamentals (Python, NumPy, Pandas)
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
 
 ## Connect With Me
 <p>
@@ -62,3 +67,10 @@ I am a full-stack developer focused on building clean, scalable, and high-perfor
   🎀 Thanks for stopping by — keep building, keep glowing 🎀
 </p>
 
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=ff4fa3&height=140&section=footer"
+    width="100%"
+  />
+</p>
