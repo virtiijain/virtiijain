@@ -9,6 +9,9 @@
 ## About Me
 I am a full-stack developer focused on building clean, scalable, and high-performance web applications. My work blends technical precision with purposeful coding, crafting interfaces that are consistent, efficient, and reliable. Proficient in the MERN stack and Next.js, while also expanding my backend capabilities through Python and FastAPI. Alongside this, I am currently exploring AI fundamentals, including Python, NumPy, and Pandas, to broaden my technical foundation.
 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
 
 ## Tech Stack
 
@@ -46,20 +49,17 @@ I am a full-stack developer focused on building clean, scalable, and high-perfor
 - Leveling up backend with Python + FastAPI  
 - Learning AI fundamentals (Python, NumPy, Pandas)
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
-
 ## Connect With Me
 <p>
   <a href="https://www.linkedin.com/in/virtijain/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-ff4f9f?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
   <a href="https://leetcode.com/u/virti-jain/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-ff4f9f?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
+  <a href="https://x.com/VirtiJainn" target="_blank">
+  <img src="https://img.shields.io/badge/X-ff4f9f?style=for-the-badge&logo=x&logoColor=white" />
+</a>
 </p>
 
 
