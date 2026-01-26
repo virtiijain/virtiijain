@@ -7,7 +7,7 @@
 </p>
 
 ## About Me
-I am a full-stack developer focused on building clean, scalable, and high-performance web applications. My work blends technical precision with purposeful coding, crafting interfaces that are consistent, efficient, and reliable. Proficient in the MERN stack and Next.js, while also expanding my backend capabilities through Python and FastAPI. Alongside this, I am currently exploring AI fundamentals, including Python, NumPy, and Pandas, to broaden my technical foundation.
+I am a full-stack developer focused on building clean, scalable, and high-performance web applications. I work primarily with the MERN stack, and I am expanding my backend skills with Python while actively learning Machine Learning, including model building, data preprocessing, and evaluation.
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
@@ -46,8 +46,9 @@ I am a full-stack developer focused on building clean, scalable, and high-perfor
 </p>
 
 ## Currently Working On
-- Leveling up backend with Python + FastAPI  
-- Learning AI fundamentals (Python, NumPy, Pandas)
+- Applied Machine Learning using Python (supervised & unsupervised learning)
+- Model training, evaluation, and optimization
+- Preparing data pipelines for ML workflows
 
 ## Connect With Me
 <p>
