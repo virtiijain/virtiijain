@@ -6,12 +6,12 @@
   <em>Full Stack Dev • MERN Stack • Exploring AI</em>
 </p>
 
-## About Me
-I am a full-stack developer focused on building clean, scalable, and high-performance web applications. I work primarily with the MERN stack, and I am expanding my backend skills with Python while actively learning Machine Learning, including model building, data preprocessing, and evaluation.
-
 <p align="left">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
+
+## About Me
+I am a full-stack developer focused on building clean, scalable, and high-performance web applications. I work primarily with the MERN stack, and I am expanding my backend skills with Python while actively learning Machine Learning, including model building, data preprocessing, and evaluation.
 
 ## Tech Stack
 
