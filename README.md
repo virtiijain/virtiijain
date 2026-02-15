@@ -58,9 +58,6 @@ I am a full-stack developer focused on building clean, scalable, and high-perfor
   <a href="https://leetcode.com/u/virti-jain/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-ff4f9f?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-  <a href="https://x.com/VirtiJainn" target="_blank">
-  <img src="https://img.shields.io/badge/X-ff4f9f?style=for-the-badge&logo=x&logoColor=white" />
-</a>
 </p>
 
 
