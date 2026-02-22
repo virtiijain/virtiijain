@@ -12,9 +12,6 @@
 
 ## About Me
 I am a full-stack developer focused on building clean, scalable, and high-performance web applications. I work primarily with the MERN stack, and I am expanding my backend skills with Python while actively learning Machine Learning, including model building, data preprocessing, and evaluation.
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=virtijain&label=Profile%20Views&color=ff4fa3&style=for-the-badge" alt="profile views"/>
-</p>
 
 ## Tech Stack
 
