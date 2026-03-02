@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <em>Full Stack Dev • MERN Stack • Exploring AI</em>
+  <em>Frontend Developer • React.js • Building Modern UI</em>
 </p>
 
 <p align="left">
@@ -11,7 +11,8 @@
 </p>
 
 ## About Me
-I am a full-stack developer focused on building clean, scalable, and high-performance web applications. I work primarily with the MERN stack, and I am expanding my backend skills with Python while actively learning Machine Learning, including model building, data preprocessing, and evaluation.
+I am a frontend developer passionate about building clean, responsive, and high-performance user interfaces. I specialize in React.js and modern JavaScript frameworks, focusing on intuitive UX and scalable component architecture.
+With a background in the MERN stack, I understand full-stack workflows while primarily crafting engaging frontend experiences.
 
 ## Tech Stack
 
