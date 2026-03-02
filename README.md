@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <em>Frontend Developer • React.js • Building Modern UI</em>
+  <em>Frontend Developer • React Specialist • Modern Web Interfaces</em>
 </p>
 
 <p align="left">
