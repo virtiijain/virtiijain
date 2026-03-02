@@ -26,17 +26,28 @@ With a background in the MERN stack, I understand full-stack workflows while pri
   <img src="https://img.shields.io/badge/Redux-ff80c8?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/Framer Motion-ff4fa3?style=for-the-badge&logo=framer&logoColor=white" />
   <img src="https://img.shields.io/badge/GSAP-ff5faf?style=for-the-badge&logo=greensock&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-ff4fa3?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React Router-ff80c8?style=for-the-badge&logo=reactrouter&logoColor=white" />
+<img src="https://img.shields.io/badge/Zustand-ff5faf?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/React Query-fd6fbb?style=for-the-badge&logo=reactquery&logoColor=white" />
+<img src="https://img.shields.io/badge/Axios-ff4fa3?style=for-the-badge&logo=axios&logoColor=white" />
+<img src="https://img.shields.io/badge/Sass-ff007f?style=for-the-badge&logo=sass&logoColor=white" />
+<img src="https://img.shields.io/badge/Styled Components-ff66b3?style=for-the-badge&logo=styledcomponents&logoColor=white" />
+<img src="https://img.shields.io/badge/Responsive Design-ff4fa3?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/REST API Integration-ff80c8?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Performance Optimization-ff5faf?style=for-the-badge&logo=lighthouse&logoColor=white" />
+<img src="https://img.shields.io/badge/Accessibility (a11y)-fd6fbb?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/Node.js-ff66b3?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-ff4fa3?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-ff9acb?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-fd6fbb?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-ff5faf?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-ff4fa3?style=for-the-badge&logo=firebase&logoColor=white" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/Git/GitHub-ff80c8?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-fa2d8d?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-ff4fa3?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-fa2d8d?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/CI/CD-ff66b3?style=for-the-badge&logo=githubactions&logoColor=white" />
@@ -45,11 +56,6 @@ With a background in the MERN stack, I understand full-stack workflows while pri
   <img src="https://img.shields.io/badge/Render-ff9acb?style=for-the-badge&logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-fd6fbb?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
-
-## Currently Working On
-- Applied Machine Learning using Python (supervised & unsupervised learning)
-- Model training, evaluation, and optimization
-- Preparing data pipelines for ML workflows
 
 ## Connect With Me
 <p>
