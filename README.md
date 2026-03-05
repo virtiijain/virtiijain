@@ -11,16 +11,18 @@
 
 ## ◈ Who Am I?
 
-I'm **Virti** — a frontend developer who believes great UI is not decoration, it's *communication.*
+Hey! I'm **Virti** — a frontend developer who genuinely enjoys turning ideas into clean, functional interfaces. I work mostly with **React, Next.js, and TypeScript**, and I care a lot about the small things — smooth interactions, readable code, and UIs that just *feel* right.
 
-I obsess over the details most people skip — the easing curve on an animation, the contrast ratio on a button, the milliseconds before a page feels fast.
+I've built full-stack projects with the **MERN stack**, so I understand how the whole system works — but frontend is where I'm happiest.
 
-With a strong **React & Next.js** foundation and full-stack fluency in the **MERN stack**, I bridge the gap between beautiful design and working software.
-
-```
-currently  →  building something ambitious 👀
-open to    →  collabs, roles, cool ideas
-vibe       →  dark mode, lo-fi, clean commits
+```ts
+const virti = {
+  role:       "Frontend Developer",
+  skills:     "frontend-focused, full-stack capable",
+  learning:   "always something new",
+  available:  true, // open to opportunities
+  contact:    "linkedin.com/in/virtijain"
+}
 ```
 
 </td>
