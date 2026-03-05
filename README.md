@@ -1,12 +1,13 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:ff0080,30:7928ca,60:0070f3,100:00dfd8&height=250&section=header&text=VIRTI%20JAIN&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=55&fontAlign=70&desc=Frontend%20Developer%20•%20UI%20Architect%20•%20Experience%20Crafter&descSize=17&descAlignY=78&descAlign=70&descColor=e0d7ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d0d14,30:1a0533,60:3b1f6e,100:a855f7&height=250&section=header&text=VIRTI%20JAIN&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=55&fontAlign=70&desc=Frontend%20Developer%20•%20React%20|%20Next.js%20•%20Detail%20Oriented&descSize=17&descAlignY=78&descAlign=70&descColor=c084fc" width="100%"/>
 <br/>
-<img src="https://komarev.com/ghpvc/?username=virti-jain&style=for-the-badge&color=7928ca&label=PROFILE+VIEWS&abbreviated=true"/>
+<img src="https://komarev.com/ghpvc/?username=virtiijain&style=for-the-badge&color=7928ca&label=PROFILE+VIEWS&abbreviated=true"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Frontend-Developer-0070f3?style=for-the-badge&logo=react&logoColor=white"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Open%20To-Opportunities-00dfd8?style=for-the-badge&logo=handshake&logoColor=white"/>
 </div>
+
 
 ## ◈ Who Am I?
 
