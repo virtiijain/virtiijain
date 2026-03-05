@@ -11,9 +11,9 @@
 
 ## ◈ Who Am I?
 
-Hey! I'm **Virti** — a frontend developer who genuinely enjoys turning ideas into clean, functional interfaces. I work mostly with **React, Next.js, and TypeScript**, and I care a lot about the small things — smooth interactions, readable code, and UIs that just *feel* right.
+Hey! I'm **Virti** — a frontend developer who genuinely enjoys turning ideas into clean, functional interfaces. I work mostly with **React, Next.js, and TypeScript**, and I care a lot about the small things smooth interactions, readable code, and UIs that just *feel* right.
 
-I've built full-stack projects with the **MERN stack**, so I understand how the whole system works — but frontend is where I'm happiest.
+I've built full-stack projects with the **MERN stack**, so I understand how the whole system works but frontend is where I'm happiest.
 
 ```ts
 const virti = {
@@ -29,8 +29,6 @@ const virti = {
 <td valign="top" width="45%">
 
 ## ◈ Quick Stats
-
-
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=virtiijain&theme=midnight-purple&background=0d0d14&ring=c084fc&fire=a855f7&currStreakLabel=c084fc&border=3b1f6e" width="100%"/>
 
