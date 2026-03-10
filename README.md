@@ -1,6 +1,6 @@
-<div align="center">
+<div align="left">
 
-<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=500&size=28&duration=3500&pause=1000&color=A8D8FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Virti+Jain+%F0%9F%91%8B;Frontend+Developer+%E2%9C%A8;Always+learning%2C+always+building+%F0%9F%8C%B1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=500&size=28&duration=3500&pause=1000&color=A8D8FF&center=false&vCenter=false&width=600&lines=Hi%2C+I'm+Virti+Jain+%F0%9F%91%8B;Frontend+Developer+%E2%9C%A8;Always+learning%2C+always+building+%F0%9F%8C%B1" alt="Typing SVG" />
 
 <br/>
 
@@ -14,7 +14,7 @@
 
 ---
 
-### 🌿 &nbsp;About Me
+### <img src="https://cdn.simpleicons.org/leaflet/4ade80" width="20" height="20" /> &nbsp;About Me
 
 ```ts
 const me = {
@@ -29,7 +29,7 @@ const me = {
 
 ---
 
-### 🎀 &nbsp;Tech Stack
+### <img src="https://cdn.simpleicons.org/yarn/f9a8d4" width="20" height="20" /> &nbsp;Tech Stack
 
 **Frontend — Where I live**
 
@@ -66,12 +66,11 @@ const me = {
 ![Netlify](https://img.shields.io/badge/Netlify-a5f3fc?style=flat-square&logo=netlify&logoColor=0891b2)
 ![Render](https://img.shields.io/badge/Render-bbf7d0?style=flat-square&logo=render&logoColor=15803d)
 
-
 ---
 
-### 📊 &nbsp;GitHub Stats
+### <img src="https://cdn.simpleicons.org/github/a8d8ff" width="20" height="20" /> &nbsp;GitHub Stats
 
-<div align="center">
+<div align="left">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=virtiijain&theme=rose-pine-dawn&border_radius=12&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
@@ -83,16 +82,19 @@ const me = {
 
 ---
 
-### 🌸 &nbsp;Fun Facts About Me
+### <img src="https://cdn.simpleicons.org/sparkfun/f9a8d4" width="20" height="20" /> &nbsp;Fun Facts About Me
 
-- ✏️ &nbsp;I draw — it's my version of meditation, pen on paper clears the mind
-- 🌱 &nbsp;I learn something new every single day, no exception
-- 🌙 &nbsp;Dark mode is a personality trait
-- 📖 &nbsp;My commit messages tell a whole story
+<img src="https://cdn.simpleicons.org/autodesksketchbook/c4b5fd" width="14" height="14" /> &nbsp;I draw — it's my version of meditation, pen on paper clears the mind
+
+<img src="https://cdn.simpleicons.org/duolingo/86efac" width="14" height="14" /> &nbsp;I learn something new every single day, no exception
+
+<img src="https://cdn.simpleicons.org/moonrepo/93c5fd" width="14" height="14" /> &nbsp;Dark mode is a personality trait
+
+<img src="https://cdn.simpleicons.org/conventionalcommits/fca5a5" width="14" height="14" /> &nbsp;My commit messages tell a whole story
 
 ---
 
-### 🤝 &nbsp;Let's Connect
+### <img src="https://cdn.simpleicons.org/handshake/a8d8ff" width="20" height="20" /> &nbsp;Let's Connect
 
 <div align="center">
 
