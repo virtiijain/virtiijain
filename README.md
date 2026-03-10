@@ -1,127 +1,105 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d0d14,30:1a0533,60:3b1f6e,100:a855f7&height=250&section=header&text=VIRTI%20JAIN&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=55&fontAlign=70&desc=Frontend%20Developer%20•%20React%20|%20Next.js%20•%20Detail%20Oriented&descSize=17&descAlignY=78&descAlign=70&descColor=c084fc" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=500&size=28&duration=3500&pause=1000&color=B388FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Virti+Jain+%F0%9F%91%8B;Frontend+Developer+%E2%9C%A8;Always+learning%2C+always+building+%F0%9F%8C%B1" alt="Typing SVG" />
+
 <br/>
-<img src="https://komarev.com/ghpvc/?username=virtiijain&style=for-the-badge&color=7928ca&label=PROFILE+VIEWS&abbreviated=true"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Frontend-Developer-0070f3?style=for-the-badge&logo=react&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Open%20To-Opportunities-00dfd8?style=for-the-badge&logo=handshake&logoColor=white"/>
+
+> 🌸 &nbsp;**Frontend-focused** · Full Stack Developer · Open to opportunities · Constantly learning
+
+<br/>
+
+[![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-Available-a8edca?style=for-the-badge&labelColor=f3e8ff)](mailto:virtij29@email.com)
+
 </div>
 
+---
 
-## ◈ Who Am I?
-
-Hey! I'm **Virti** a frontend developer who genuinely enjoys turning ideas into clean, functional interfaces. I work mostly with **React, Next.js, and TypeScript**, and I care a lot about the small things smooth interactions, readable code, and UIs that just *feel* right.
-
-I've built full-stack projects with the **MERN stack**, so I understand how the whole system works but frontend is where I'm happiest.
+### 🌿 &nbsp;About Me
 
 ```ts
-const virti = {
-  role:       "Frontend Developer",
-  skills:     "frontend-focused, full-stack capable",
-  learning:   "always something new",
-  available:  true, // open to opportunities
-  contact:    "linkedin.com/in/virtijain"
-}
+const me = {
+  role        : "Frontend Developer",
+  superpower  : "Turning designs into pixel-perfect, responsive UIs",
+  alsoKnows   : "Full Stack — because sometimes you gotta do it all 🛠️",
+  status      : "Open to new opportunities ✅",
+  currentFocus: "Building projects & leveling up every day",
+  funFact     : ["I redesign UIs in my head when I'm bored 👀",
+                 "Dark mode is a personality trait 🌙",
+                 "My commit messages tell a whole story 📖"],
+};
 ```
 
-</td>
-<td valign="top" width="45%">
+---
 
-## ◈ Quick Stats
+### 🎀 &nbsp;Tech Stack
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=virtiijain&theme=midnight-purple&background=0d0d14&ring=c084fc&fire=a855f7&currStreakLabel=c084fc&border=3b1f6e" width="100%"/>
+**Frontend — Where I live**
 
-</td>
-</tr>
-</table>
+![HTML5](https://img.shields.io/badge/HTML5-fca5a5?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-93c5fd?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-fde68a?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-bfdbfe?style=flat-square&logo=typescript&logoColor=3178c6)
+![React](https://img.shields.io/badge/React-a5f3fc?style=flat-square&logo=react&logoColor=0891b2)
+![Next.js](https://img.shields.io/badge/Next.js-e5e7eb?style=flat-square&logo=nextdotjs&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-a5f3fc?style=flat-square&logo=tailwindcss&logoColor=0891b2)
+![Figma](https://img.shields.io/badge/Figma-fecaca?style=flat-square&logo=figma&logoColor=f87171)
 
-<br/>
+**Backend — I can handle it**
+
+![Node.js](https://img.shields.io/badge/Node.js-bbf7d0?style=flat-square&logo=nodedotjs&logoColor=15803d)
+![Express](https://img.shields.io/badge/Express-e5e7eb?style=flat-square&logo=express&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-bbf7d0?style=flat-square&logo=mongodb&logoColor=15803d)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-fed7aa?style=flat-square&logo=git&logoColor=ea580c)
+![VS Code](https://img.shields.io/badge/VS_Code-bfdbfe?style=flat-square&logo=visualstudiocode&logoColor=0078d4)
+![Vite](https://img.shields.io/badge/Vite-ddd6fe?style=flat-square&logo=vite&logoColor=7c3aed)
+![Vercel](https://img.shields.io/badge/Vercel-e5e7eb?style=flat-square&logo=vercel&logoColor=black)
 
 ---
 
-## ◈ What I Actually Do
+### 🌼 &nbsp;Currently
+
+| | |
+|---|---|
+| 🔨 **Building** | [Project Name] — *brief description* |
+| 📚 **Learning** | [What you're currently learning] |
+| 🎯 **Goal** | Land a frontend role & keep shipping projects |
+| 💬 **Ask me about** | React, UI/UX, CSS tricks, or anything frontend! |
+
+---
+
+### 📊 &nbsp;GitHub Stats
 
 <div align="center">
 
-| | Skill | What that means in real life |
-|---|---|---|
-| 🎨 | **UI Engineering** | I turn Figma files into living, breathing interfaces |
-| ⚡ | **Performance** | Lazy loading, code splitting, Lighthouse scores that slap |
-| 🎬 | **Animation** | GSAP timelines & Framer Motion that make users pause and smile |
-| 🧩 | **Component Design** | Reusable, composable, maintainable — future-me says thanks |
-| ♿ | **Accessibility** | Because good UI works for *everyone* |
-| 🔌 | **API Integration** | REST, async flows, error states that don't make users cry |
+[![GitHub Streak](https://streak-stats.demolab.com?user=virtiijain&theme=rose-pine-dawn&border_radius=12&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
-<br/>
+---
+
+### 🌸 &nbsp;Fun Facts About Me
+
+- 🎨 &nbsp;I care deeply about how things **look and feel** — not just how they work
+- 🌱 &nbsp;I learn something new every single day, no exception
+- 💡 &nbsp;I get ideas at the worst times (2am, shower, mid-conversation)
+- ☕ &nbsp;Fueled by curiosity and [coffee/chai — pick your weapon]
 
 ---
 
-## ◈ Tech Universe
+### 🤝 &nbsp;Let's Connect
 
 <div align="center">
 
-### — Core —
-![React](https://img.shields.io/badge/React-0d0d14?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0d0d14?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d0d14?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d0d14?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-0d0d14?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d0d14?style=for-the-badge&logo=css3&logoColor=1572B6)
+[![Portfolio](https://img.shields.io/badge/Portfolio-f3e8ff?style=for-the-badge&logo=vercel&logoColor=7c3aed)](https://yourportfolio.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dbeafe?style=for-the-badge&logo=linkedin&logoColor=1d4ed8)](https://linkedin.com/in/virtijain)
+[![Twitter](https://img.shields.io/badge/Twitter-e0f2fe?style=for-the-badge&logo=twitter&logoColor=0284c7)](https://twitter.com/VirtiJainn)
+[![Email](https://img.shields.io/badge/Email-fce7f3?style=for-the-badge&logo=gmail&logoColor=db2777)](mailto:virtij29@email.com)
 
-### — Styling & Motion —
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0d0d14?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0d0d14?style=for-the-badge&logo=framer&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-0d0d14?style=for-the-badge&logo=greensock&logoColor=88CE02)
-![Sass](https://img.shields.io/badge/Sass-0d0d14?style=for-the-badge&logo=sass&logoColor=CC6699)
-![Styled Components](https://img.shields.io/badge/Styled_Components-0d0d14?style=for-the-badge&logo=styledcomponents&logoColor=DB7093)
-![MUI](https://img.shields.io/badge/MUI-0d0d14?style=for-the-badge&logo=mui&logoColor=007FFF)
+<br/>
 
-### — State & Data —
-![Redux](https://img.shields.io/badge/Redux_Toolkit-0d0d14?style=for-the-badge&logo=redux&logoColor=764ABC)
-![Zustand](https://img.shields.io/badge/Zustand-0d0d14?style=for-the-badge&logo=react&logoColor=c084fc)
-![React Query](https://img.shields.io/badge/React_Query-0d0d14?style=for-the-badge&logo=reactquery&logoColor=FF4154)
-![Axios](https://img.shields.io/badge/Axios-0d0d14?style=for-the-badge&logo=axios&logoColor=5A29E4)
-![React Router](https://img.shields.io/badge/React_Router-0d0d14?style=for-the-badge&logo=reactrouter&logoColor=CA4245)
-
-### — Backend & DB —
-![Node.js](https://img.shields.io/badge/Node.js-0d0d14?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Express](https://img.shields.io/badge/Express.js-0d0d14?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d0d14?style=for-the-badge&logo=mongodb&logoColor=47A248)
-
-### — Tools & DevOps —
-![Git](https://img.shields.io/badge/Git_&_GitHub-0d0d14?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0d0d14?style=for-the-badge&logo=docker&logoColor=2496ED)
-![CI/CD](https://img.shields.io/badge/GitHub_Actions-0d0d14?style=for-the-badge&logo=githubactions&logoColor=2088FF)
-![Vite](https://img.shields.io/badge/Vite-0d0d14?style=for-the-badge&logo=vite&logoColor=646CFF)
-![Figma](https://img.shields.io/badge/Figma-0d0d14?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![Vercel](https://img.shields.io/badge/Vercel-0d0d14?style=for-the-badge&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-0d0d14?style=for-the-badge&logo=postman&logoColor=FF6C37)
+*Thanks for stopping by — let's build something together! 🌷*
 
 </div>
-
-<br/>
-
----
-
-## ◈ Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=virtiijain&bg_color=0d0d14&color=c084fc&line=a855f7&point=ffffff&area=true&hide_border=false&border_color=3b1f6e" width="100%"/>
-
-<br/>
-
----
-
-## ◈ Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/virtijain/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0d0d14?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://leetcode.com/u/virti-jain/">
-  <img src="https://img.shields.io/badge/LeetCode-Problem_solver-0d0d14?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
-</a>
