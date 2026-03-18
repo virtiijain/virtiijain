@@ -70,21 +70,24 @@ const me = {
 
 ### <img src="https://cdn.simpleicons.org/github/a8d8ff" width="20" height="20" /> &nbsp;GitHub Stats
 
-<div align="left">
+<table border="0" cellspacing="0" cellpadding="10">
+<tr>
+<td valign="top" width="50%">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=virtiijain&theme=rose-pine-dawn&border_radius=12&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=virtiijain&theme=rose-pine-dawn&border_radius=12&date_format=j%20M%5B%20Y%5D&width=450)](https://git.io/streak-stats)
 
-<br/>
+</td>
+<td valign="top" width="50%">
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=virtiijain&bg_color=1e2433&color=A8D8FF&line=FFB3C6&point=C9B1FF&area=true&area_color=A8D8FF&hide_border=true&radius=8)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=virtiijain&bg_color=1e2433&color=A8D8FF&line=FFB3C6&point=C9B1FF&area=true&area_color=A8D8FF&hide_border=true&radius=8&width=450)
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
 ### <img src="https://cdn.simpleicons.org/sparkfun/f9a8d4" width="20" height="20" /> &nbsp;Fun Facts About Me
-
-<img src="https://cdn.simpleicons.org/autodesksketchbook/c4b5fd" width="14" height="14" /> &nbsp;I draw — it's my version of meditation, pen on paper clears the mind
 
 <img src="https://cdn.simpleicons.org/duolingo/86efac" width="14" height="14" /> &nbsp;I learn something new every single day, no exception
 
