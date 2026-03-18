@@ -69,10 +69,10 @@ const me = {
 ---
 
 ### <img src="https://cdn.simpleicons.org/github/a8d8ff" width="20" height="20" /> &nbsp;GitHub Stats
+
 <div align="left">
-[![GitHub Streak](https://streak-stats.demolab.com?user=virtiijain&theme=rose-pine-dawn&border_radius=12&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-<br/>
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=virtiijain&bg_color=1e2433&color=A8D8FF&line=FFB3C6&point=C9B1FF&area=true&area_color=A8D8FF&hide_border=true&radius=8)
+<img src="https://streak-stats.demolab.com?user=virtiijain&theme=rose-pine-dawn&border_radius=12&date_format=j%20M%5B%20Y%5D" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=virtiijain&bg_color=1e2433&color=A8D8FF&line=FFB3C6&point=C9B1FF&area=true&area_color=A8D8FF&hide_border=true&radius=8" width="49%" />
 </div>
 
 ---
