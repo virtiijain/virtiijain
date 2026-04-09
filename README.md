@@ -4,10 +4,11 @@
 
 <br/>
 
-> **Frontend-focused** · Full Stack Developer · Open to opportunities · Constantly learning
+> Full Stack Developer · Freelancer · Open to opportunities · Constantly learning
 
 <br/>
 
+[![Freelancing](https://img.shields.io/badge/%F0%9F%92%BC%20Freelancing-Active-fde68a?style=for-the-badge&labelColor=f3e8ff)](mailto:virtij29@email.com)
 [![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-Available-a8edca?style=for-the-badge&labelColor=f3e8ff)](mailto:virtij29@email.com)
 
 </div>
@@ -22,7 +23,7 @@ const me = {
   stack       : "Full Stack — frontend is home, backend is survival",
   location    : "Gujarat, India 📍",
   pronouns    : "she / her",
-  status      : "Open to opportunities",
+  status      : "Freelance projects & Open to opportunities",
   building    : "Side projects & real-world apps, consistently",
 };
 ```
