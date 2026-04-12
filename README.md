@@ -19,12 +19,12 @@
 
 ```ts
 const me = {
-  role        : "Frontend Developer",
+  role        : "Full Stack Developer",
   stack       : "Full Stack — frontend is home, backend is survival",
   location    : "Gujarat, India 📍",
   pronouns    : "she / her",
   status      : "Freelance projects & Open to opportunities",
-  building    : "Side projects & real-world apps, consistently",
+  building    : "Side Projects & real-world apps, consistently",
 };
 ```
 
