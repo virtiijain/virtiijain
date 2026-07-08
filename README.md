@@ -25,7 +25,7 @@ const me = {
   location    : "Gujarat, India 📍",
   pronouns    : "she / her",
   currentFocus: "Freelance projects, startups & enterprise applications",
-  approach    : "Clean code, thoughtful design, collaborative partnerships",
+  approach    : "Clean code, thoughtful designs, collaborative partnerships",
 };
 ```
 
