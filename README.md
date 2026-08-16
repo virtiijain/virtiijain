@@ -103,7 +103,6 @@ const me = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-f3e8ff?style=for-the-badge&logo=vercel&logoColor=7c3aed)](https://virtijainn.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dbeafe?style=for-the-badge&logo=linkedin&logoColor=1d4ed8)](https://linkedin.com/in/virtijain)
 [![Email](https://img.shields.io/badge/Email-fce7f3?style=for-the-badge&logo=gmail&logoColor=db2777)](mailto:virtijain.work@email.com)
 
