@@ -21,10 +21,10 @@
 ```ts
 const me = {
   role        : "Full Stack Developer",
-  stack       : "MERN • Next.js • React Native • Expo",
+  techStack   : "TypeScript • Next.js • Node.js • React Native • Expo",
   location    : "Gujarat, India 📍",
   pronouns    : "she / her",
-  currentFocus: "Building scalable web & mobile products",
+  currentFocus: "Web applications, mobile apps & backend systems",
   approach    : "Performance, scalability & reliable architecture",
 };
 ```
