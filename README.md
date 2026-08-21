@@ -103,8 +103,9 @@ const me = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dbeafe?style=for-the-badge&logo=linkedin&logoColor=1d4ed8)](https://linkedin.com/in/virtijain)
-[![Email](https://img.shields.io/badge/Email-fce7f3?style=for-the-badge&logo=gmail&logoColor=db2777)](mailto:virtijain.work@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dbeafe?style=for-the-badge)](https://linkedin.com/in/virtijain)
+[![Portfolio](https://img.shields.io/badge/Portfolio-f3e8ff?style=for-the-badge)](https://virtijainn.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-fce7f3?style=for-the-badge)](mailto:virtijain.work@email.com)
 
 <br/>
 
