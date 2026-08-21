@@ -48,28 +48,37 @@ const me = {
 ![Redux](https://img.shields.io/badge/Redux-ddd6fe?style=flat-square&logo=redux&logoColor=7c3aed)
 ![Zustand](https://img.shields.io/badge/Zustand-fde68a?style=flat-square&logo=react&logoColor=b45309)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-fde68a?style=flat-square&logo=framer&logoColor=0084ff)
- 
+
+### **Mobile Development**
+
+![React Native](https://img.shields.io/badge/React_Native-a5f3fc?style=flat-square&logo=react&logoColor=0891b2)
+![Expo](https://img.shields.io/badge/Expo-e5e7eb?style=flat-square&logo=expo&logoColor=black)
+![Expo Router](https://img.shields.io/badge/Expo_Router-e5e7eb?style=flat-square&logo=expo&logoColor=black)
+![NativeWind](https://img.shields.io/badge/NativeWind-a5f3fc?style=flat-square&logo=tailwindcss&logoColor=0891b2)
+![React Navigation](https://img.shields.io/badge/React_Navigation-fecaca?style=flat-square&logo=react&logoColor=dc2626)
+![AsyncStorage](https://img.shields.io/badge/AsyncStorage-fde68a?style=flat-square&logo=react&logoColor=b45309)
+![React Native Reanimated](https://img.shields.io/badge/Reanimated-ddd6fe?style=flat-square&logo=react&logoColor=7c3aed)
+![React Native Gesture Handler](https://img.shields.io/badge/Gesture_Handler-bbf7d0?style=flat-square&logo=react&logoColor=15803d)
+![Deep Linking](https://img.shields.io/badge/Deep_Linking-dbeafe?style=flat-square&logo=android&logoColor=336791)
+![OAuth](https://img.shields.io/badge/OAuth-f3e8ff?style=flat-square&logo=auth0&logoColor=7c3aed)
+
 ### **Backend**
  
 ![Node.js](https://img.shields.io/badge/Node.js-bbf7d0?style=flat-square&logo=nodedotjs&logoColor=15803d)
 ![Express](https://img.shields.io/badge/Express-e5e7eb?style=flat-square&logo=express&logoColor=black)
-![Python](https://img.shields.io/badge/Python-bfdbfe?style=flat-square&logo=python&logoColor=2563eb)
 ![MongoDB](https://img.shields.io/badge/MongoDB-bbf7d0?style=flat-square&logo=mongodb&logoColor=15803d)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-dbeafe?style=flat-square&logo=postgresql&logoColor=336791)
 ![Firebase](https://img.shields.io/badge/Firebase-fed7aa?style=flat-square&logo=firebase&logoColor=ffa726)
- 
+
 ### **Tools & Platforms**
  
 ![Figma](https://img.shields.io/badge/Figma-fecaca?style=flat-square&logo=figma&logoColor=f87171)
 ![Git](https://img.shields.io/badge/Git-fed7aa?style=flat-square&logo=git&logoColor=ea580c)
 ![GitHub](https://img.shields.io/badge/GitHub-e5e7eb?style=flat-square&logo=github&logoColor=black)
-![npm](https://img.shields.io/badge/npm-fecaca?style=flat-square&logo=npm&logoColor=dc2626)
-![pnpm](https://img.shields.io/badge/pnpm-fde68a?style=flat-square&logo=pnpm&logoColor=b45309)
-![Vite](https://img.shields.io/badge/Vite-ddd6fe?style=flat-square&logo=vite&logoColor=7c3aed)
-![Webpack](https://img.shields.io/badge/Webpack-93c5fd?style=flat-square&logo=webpack&logoColor=1d4ed8)
-![Postman](https://img.shields.io/badge/Postman-fed7aa?style=flat-square&logo=postman&logoColor=ea580c)
 ![Docker](https://img.shields.io/badge/Docker-dbeafe?style=flat-square&logo=docker&logoColor=336791)
- 
+![Android Studio](https://img.shields.io/badge/Android_Studio-bbf7d0?style=flat-square&logo=androidstudio&logoColor=3ddc84)
+![Xcode](https://img.shields.io/badge/Xcode-dbeafe?style=flat-square&logo=xcode&logoColor=147ef5)
+![Expo Go](https://img.shields.io/badge/Expo_Go-e5e7eb?style=flat-square&logo=expo&logoColor=black)
+
 ### **Deployment & Hosting**
  
 ![Vercel](https://img.shields.io/badge/Vercel-e5e7eb?style=flat-square&logo=vercel&logoColor=black)
@@ -77,7 +86,6 @@ const me = {
 ![Render](https://img.shields.io/badge/Render-bbf7d0?style=flat-square&logo=render&logoColor=15803d)
 ![AWS](https://img.shields.io/badge/AWS-fed7aa?style=flat-square&logo=amazonaws&logoColor=ff9900)
 ![Railway](https://img.shields.io/badge/Railway-dbeafe?style=flat-square&logo=railway&logoColor=0b0d0e)
-
 ---
 
 ### <img src="https://cdn.simpleicons.org/github/a8d8ff" width="20" height="20" /> &nbsp;GitHub Stats
