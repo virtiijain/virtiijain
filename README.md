@@ -21,11 +21,11 @@
 ```ts
 const me = {
   role        : "Full Stack Developer",
-  stack       : "Full Stack Developer {MERN}",
+  stack       : "MERN • Next.js • React Native • Expo",
   location    : "Gujarat, India 📍",
   pronouns    : "she / her",
-  currentFocus: "Freelance projects, startups & enterprise applications",
-  approach    : "Clean code, thoughtful designs, collaborative partnerships",
+  currentFocus: "Building scalable web & mobile products",
+  approach    : "Performance, scalability & reliable architecture",
 };
 ```
 
