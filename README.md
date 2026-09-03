@@ -117,6 +117,6 @@ const me = {
 
 <br/>
 
-*Thanks for stopping by — Keep learning, Keep Growing!*
+*Thanks for stopping by Keep learning, Keep Growing!*
 
 </div>
