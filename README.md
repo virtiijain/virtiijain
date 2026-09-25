@@ -88,12 +88,17 @@ const me = {
 ![Railway](https://img.shields.io/badge/Railway-dbeafe?style=flat-square&logo=railway&logoColor=0b0d0e)
 ---
 
-### <img src="https://cdn.simpleicons.org/github/a8d8ff" width="20" height="20" /> &nbsp;GitHub Stats
+### <img src="https://cdn.simpleicons.org/github/a8d8ff" width="20" height="20" />  GitHub Stats
 
-<div align="left">
-<img src="https://streak-stats.demolab.com?user=virtiijain&theme=rose-pine-dawn&border_radius=12&date_format=j%20M%5B%20Y%5D" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=virtiijain&bg_color=1e2433&color=A8D8FF&line=FFB3C6&point=C9B1FF&area=true&area_color=A8D8FF&hide_border=true&radius=8" width="49%" />
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=virtiijain&theme=rose-pine-dawn&border_radius=12&date_format=j%20M%20Y" width="49%" />
+
+<img src="https://github-activity-chart.vercel.app/graph?username=virtiijain&days=31" width="49%" />
+
 </div>
+
+
 
 ---
 
