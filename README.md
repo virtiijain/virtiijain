@@ -127,7 +127,6 @@ const me = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dbeafe?style=for-the-badge)](https://linkedin.com/in/virtijain)
-[![Portfolio](https://img.shields.io/badge/Portfolio-f3e8ff?style=for-the-badge)](https://virtijain.in/)
 [![Email](https://img.shields.io/badge/Email-fce7f3?style=for-the-badge)](mailto:virtijain.work@email.com)
 
 <br/>
