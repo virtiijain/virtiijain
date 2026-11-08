@@ -112,16 +112,6 @@ const me = {
 
 ---
 
-### <img src="https://cdn.simpleicons.org/sparkfun/f9a8d4" width="20" height="20" /> &nbsp;Fun Facts About Me
-
-<img src="https://cdn.simpleicons.org/duolingo/86efac" width="14" height="14" /> &nbsp;I learn something new every single day, no exception
-
-<img src="https://cdn.simpleicons.org/moonrepo/93c5fd" width="14" height="14" /> &nbsp;Dark mode is a personality trait
-
-<img src="https://cdn.simpleicons.org/conventionalcommits/fca5a5" width="14" height="14" /> &nbsp;My commit messages tell a whole story
-
----
-
 ### <img src="https://cdn.simpleicons.org/handshake/a8d8ff" width="20" height="20" /> &nbsp;Let's Connect
 
 <div align="center">
