@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="352" viewBox="0 0 1200 352">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+    <style>
+      .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif; }
+      .mono { font-family: 'JetBrains Mono', 'SF Mono', Menlo, Consolas, 'Courier New', monospace; }
+      .card { fill: #0b0f19; stroke: #1e293b; }
+      .num  { fill: #475569; font-size: 12px; }
+      .ttl  { fill: #f1f5f9; font-size: 18px; font-weight: 700; }
+      .itm  { fill: #94a3b8; font-size: 15px; }
+    </style>
+  </defs>
+
+  <!-- Frontend -->
+  <g transform="translate(0,0)">
+    <rect class="card" x="0.5" y="0.5" width="288" height="350" rx="14"/>
+    <rect x="24" y="0.5" width="40" height="3" fill="url(#accent)"/>
+    <text x="24" y="40" class="mono num">01</text>
+    <text x="24" y="68" class="sans ttl">Frontend</text>
+    <g class="sans itm">
+      <text x="24" y="112">TypeScript</text>
+      <text x="24" y="146">React</text>
+      <text x="24" y="180">Next.js</text>
+      <text x="24" y="214">Tailwind CSS</text>
+      <text x="24" y="248">Redux · Zustand</text>
+      <text x="24" y="282">shadcn/ui</text>
+      <text x="24" y="316">Framer Motion</text>
+    </g>
+  </g>
+
+  <!-- Mobile -->
+  <g transform="translate(304,0)">
+    <rect class="card" x="0.5" y="0.5" width="288" height="350" rx="14"/>
+    <rect x="24" y="0.5" width="40" height="3" fill="url(#accent)"/>
+    <text x="24" y="40" class="mono num">02</text>
+    <text x="24" y="68" class="sans ttl">Mobile</text>
+    <g class="sans itm">
+      <text x="24" y="112">React Native</text>
+      <text x="24" y="146">Expo · EAS Build</text>
+      <text x="24" y="180">Flutter · Dart</text>
+      <text x="24" y="214">NativeWind</text>
+      <text x="24" y="248">Reanimated</text>
+      <text x="24" y="282">React Navigation</text>
+      <text x="24" y="316">Deep Linking · OAuth</text>
+    </g>
+  </g>
+
+  <!-- Backend -->
+  <g transform="translate(608,0)">
+    <rect class="card" x="0.5" y="0.5" width="288" height="350" rx="14"/>
+    <rect x="24" y="0.5" width="40" height="3" fill="url(#accent)"/>
+    <text x="24" y="40" class="mono num">03</text>
+    <text x="24" y="68" class="sans ttl">Backend &amp; Data</text>
+    <g class="sans itm">
+      <text x="24" y="112">Node.js</text>
+      <text x="24" y="146">Express</text>
+      <text x="24" y="180">MongoDB · Mongoose</text>
+      <text x="24" y="214">Firebase</text>
+      <text x="24" y="248">REST APIs</text>
+      <text x="24" y="282">JWT Authentication</text>
+      <text x="24" y="316">Sanity CMS</text>
+    </g>
+  </g>
+
+  <!-- Tools -->
+  <g transform="translate(912,0)">
+    <rect class="card" x="0.5" y="0.5" width="287" height="350" rx="14"/>
+    <rect x="24" y="0.5" width="40" height="3" fill="url(#accent)"/>
+    <text x="24" y="40" class="mono num">04</text>
+    <text x="24" y="68" class="sans ttl">Tools &amp; Cloud</text>
+    <g class="sans itm">
+      <text x="24" y="112">Git · GitHub</text>
+      <text x="24" y="146">Docker</text>
+      <text x="24" y="180">Postman</text>
+      <text x="24" y="214">Figma</text>
+      <text x="24" y="248">Vercel · Netlify</text>
+      <text x="24" y="282">AWS</text>
+      <text x="24" y="316">Render · Railway</text>
+    </g>
+  </g>
+</svg>
