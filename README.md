@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=%24+whoami;Virti+Jain+%E2%80%94+Web+%26+Mobile+App+Developer;Full-Time+Developer+%2B+Freelancer;Building+scalable+web+%26+mobile+products" alt="Typing SVG" />
+<img src="./assets/terminal.svg" width="100%" alt="Virti Jain — Terminal" />
 
-<br/>
+<br/><br/>
 
 <a href="https://virtijain.in"><img src="https://img.shields.io/badge/portfolio-virtijain.in-0d1117?style=for-the-badge&logo=googlechrome&logoColor=38bdf8&labelColor=161b22" /></a>
 <a href="https://linkedin.com/in/virtijain"><img src="https://img.shields.io/badge/linkedin-virtijain-0d1117?style=for-the-badge&logo=linkedin&logoColor=38bdf8&labelColor=161b22" /></a>
@@ -12,39 +12,59 @@
 
 <br/>
 
-## `~/about`
+## `GET /api/developer/virti`
 
-```ts
-const developer = {
-  name       : "Virti Jain",
-  role       : "Web & Mobile App Developer",
-  location   : "Gujarat, India",
-  experience : "1+ years · 18+ production products delivered",
+```http
+HTTP/1.1 200 OK
+Content-Type: application/json
+X-Availability: open-to-work
+```
 
-  currently  : {
-    fullTime  : "Web & Mobile App Developer at a software company",
-    freelance : "Building end-to-end web & mobile solutions for clients",
+```json
+{
+  "name": "Virti Jain",
+  "role": "Web & Mobile App Developer",
+  "location": "Gujarat, India",
+  "experience": {
+    "years": "1+",
+    "productsDelivered": "18+"
   },
-
-  focus      : [
-    "Web applications — Next.js, React, TypeScript",
-    "Mobile applications — React Native (Expo), Flutter",
-    "Backend services — Node.js, Express, REST APIs",
-    "Databases & CMS — MongoDB, Firebase, Sanity",
+  "currently": {
+    "fullTime": "Web & Mobile App Developer at a software company",
+    "freelance": "Building end-to-end web and mobile solutions for clients"
+  },
+  "specializations": [
+    "Web applications",
+    "Cross-platform mobile apps",
+    "REST API & backend architecture",
+    "Headless CMS integration"
   ],
-
-  principles : ["performance", "scalability", "clean architecture"],
-  openTo     : ["freelance projects", "full-time opportunities"],
-};
+  "principles": ["performance", "scalability", "clean architecture"]
+}
 ```
 
 <br/>
 
-## `~/stack`
+## `git log --oneline --graph career`
+
+```text
+* a3f9c21 (HEAD -> main) Web & Mobile App Developer — Software Company
+|         Building production web apps and cross-platform mobile apps in a team
+|
+| * 7d1e4b8 (freelance) Independent Developer
+|/          Delivered 18+ products — e-commerce platforms, admin dashboards,
+|           business websites and mobile applications
+|
+* 0c2a5f0 Started full stack development journey
+```
+
+<br/>
+
+## `cat stack.config`
 
 <table>
 <tr>
-<td width="180"><code>languages</code></td>
+<td width="160"><code>languages</code></td>
 <td><img src="https://skillicons.dev/icons?i=ts,js,dart,html,css&theme=dark" height="40" /></td>
 </tr>
 <tr>
@@ -64,22 +84,19 @@ const developer = {
 <td><img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vscode&theme=dark" height="40" /></td>
 </tr>
 <tr>
-<td><code>deployment</code></td>
+<td><code>deploy</code></td>
 <td><img src="https://skillicons.dev/icons?i=vercel,netlify,aws&theme=dark" height="40" /></td>
 </tr>
 </table>
 
-```bash
-$ npm list --also-experienced-with
-├── expo  ├── expo-router  ├── eas-build  ├── nativewind  ├── reanimated
-├── shadcn/ui  ├── zustand  ├── framer-motion  ├── react-navigation
-├── mongoose  ├── jwt  ├── oauth  ├── sanity-cms
-└── render  └── railway
+```diff
++ also: expo · expo-router · eas-build · nativewind · reanimated · react-navigation
++       shadcn/ui · zustand · framer-motion · mongoose · jwt · oauth · sanity · render · railway
 ```
 
 <br/>
 
-## `~/activity`
+## `git activity --live`
 
 <table>
 <tr>
@@ -92,18 +109,24 @@ $ npm list --also-experienced-with
 </tr>
 </table>
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/virtiijain/virtiijain/output/github-snake-dark.svg" width="100%" alt="Contribution snake" />
+</div>
+
 <br/>
 
-## `~/contact`
+## `curl -X POST /api/contact`
 
 ```bash
-$ contact --virti
+$ curl -X POST https://virtijain.in/api/contact \
+    -d '{ "type": "freelance | full-time", "message": "Let us build something" }'
+
+> 201 Created
 > email     : virtijain.work@gmail.com
 > linkedin  : linkedin.com/in/virtijain
-> portfolio : virtijain.in
-> status    : open to freelance projects & full-time opportunities
+> response  : within 24 hours
 ```
 
 <div align="center">
-<sub><code>// thanks for visiting — let's build something great together</code></sub>
+<sub><code>// process.exit(0) — thanks for visiting</code></sub>
 </div>
